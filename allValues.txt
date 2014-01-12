@@ -17,6 +17,7 @@ Enthusiasm
 Excellence
 Flexibility
 Focus
+Health
 Helpfulness
 Honesty
 Humor
@@ -24,12 +25,14 @@ Industriousness
 Initiative
 Integrity
 Joyfulness
+Justice
 Knowledge
 Mindfulness
 Openness
 Orderliness
 Persistence
 Pragmatism
+Presence
 Purposefulness
 Rationality
 Reliability
@@ -44,7 +47,9 @@ Stewardship
 Tactfulness
 Thoroughness
 Tolerance
+Transparency
 Trust
 Trustworthiness
+Truth
 Unity
 Vision
