@@ -1,0 +1,12 @@
+TRIGGER: 
+Walk under bar
+
+ACTIONS:
+1. Hold bar with both hands
+2. Let go all weight on bar
+3. Stay for 30s
+4. Stay for 1’
+5. Do 1 pull up
+6. Do 1 more pull up (2)
+7. Do 1 more pull up (3)
+8. Do 2 more pull ups (5)

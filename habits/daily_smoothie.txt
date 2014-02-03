@@ -1,0 +1,10 @@
+TRIGGER:
+Before washing dishes at night
+
+ACTIONS:
+1. Take out and fruit 
+2. Get spoon of super foods
+3. Cut fruit
+4. Get spoon of honey
+5. Pour juice
+6. Juice it + Bottle it

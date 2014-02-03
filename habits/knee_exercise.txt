@@ -1,0 +1,16 @@
+TRIGGER:
+Make bed
+
+ACTIONS:
+1. **Knee press (2 rounds of 10)**
+2. Isquio press (10)
+3. Push ups (10)
+4. Isquio press (10)
+5. Push ups (10)
+6. Leg over couch (10)
+7. Sentadillas (10)
+8. Leg over couch (10)
+9. Sentadillas (10)
+10. **V stretch 60 seconds**
+11. Light up Moxa
+12. Moxa on knee for 2 minutes
