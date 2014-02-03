@@ -1,0 +1,22 @@
+TRIGGER:
+End of week, Sunday night 
+
+ACTIONS:
+1. Review simple actions
+2. Review projects
+  - Check for next actions
+  - Read description
+3. Review Responsibilities
+  - Check for next actions
+  - Read description
+4. Review all actions have context
+5. Update velocity
+  - Number of completed tasks
+  - Number of ongoing tasks
+  - Number of completed projects
+  - Number of ongoing projects 
+6. Empty Trash
+7. Review tickler
+8. Previous calendar data
+9. Upcoming calendar
+10. Review bank accounts

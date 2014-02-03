@@ -1,0 +1,22 @@
+TRIGGER: 
+Going to sleep
+
+ACTIONS:
+1. Set a Timer for 15 minutes
+2. **Mirar calendario**
+3. **Conectar móvil para cargar**
+4. Decidir la cosa más importante a hacer mañana
+5. Apuntar gastos
+6. Vaciar inbox
+  - email: Agile, Social, ...
+  - evernote
+  - papel
+  - sms
+7. *SYNC EVERNOTE*
+8. Limpiar escritorios
+  - Ordenador
+  - Físico
+9. Organizar día siguiente
+  - coger dinero
+  - hacer mochila
+10. Escribir agradecimientos
