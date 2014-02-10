@@ -5,4 +5,6 @@ ACTIONS:
 1. Open vocabulary app
 2. Read a word
 3. Define or translate
-4. Check 
+4. Check
+5. Do a full deck
+ 
