@@ -8,6 +8,7 @@ ACTIONS:
   - Regular 30 minutes
 3. Make bed
 4. Knee exercises
-5. Drink smoothie
-6. **Brush teeth**
-7. Shower
+5. Ab exercises
+6. Drink smoothie
+7. **Brush teeth**
+8. Shower

@@ -1,0 +1,12 @@
+TRIGGER:
+Make bed
+
+ACTIONS:
+1. Pushup position with elbows (30") 
+2. Hipopresivo (pilates)
+3. Lateral x 2 (30")
+4. Hipopresivo (pilates)
+5. Lumbar (30")
+6. Hipopresivo (pilates)
+7. Repetir circuito
+8. Repetir circuito
