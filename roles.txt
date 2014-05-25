@@ -3,10 +3,9 @@ Social (Family & Friends)
 - Older Son
 - Eldest Grandson
 - Friend
-  - Karina
-  - Barrio: Gerard, Victor, David, Hedu, Kieran
-  - Climbing: Sandra, Edu, Xavier Lafuente, Martin, Trano, ...
-  - IPSB
+  - Barrio (Gerard, Karina, Victor, David, Hedu, Kieran)
+  - Climbing (Sandra, Edu, Xavier Laf, Martin, Trano, ...)
+  - IPSB (Felipe, Carlos C, Carlos A, Eric, Luis, Jose, ...) 
 - Guide
 - Mensa
 
@@ -21,6 +20,7 @@ Professional
 - IIIA Ex-Alumni
 - Ex-Intelligent Pharmer
 - Personal Accountant
+- Mentor
 - Housewife
 
 Sportsman
