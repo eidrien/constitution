@@ -1,31 +1,24 @@
 Social (Family & Friends)
-- Older Brother
-- Older Son
-- Eldest Grandson
-- Friend
-  - Barrio (Gerard, Karina, Victor, David, Hedu, Kieran)
+- Older Brother: My siblings can sustain themselves and achieve their goals.
+- Older Son: My mother doesn't worry about money.
+- Eldest Grandson: My grandparents never feel lonely.
+- Friend: I know how my friends are doing. I help them when they need it. 
+  - Barrio (Gerard, Karina, Victor, David, Hedu, Kieran, Erik)
   - Climbing (Sandra, Edu, Xavier Laf, Martin, Trano, ...)
   - IPSB (Felipe, Carlos C, Carlos A, Eric, Luis, Jose, ...) 
-- Guide
-- Mensa
+  - International (Mariusz, Marie DeGross, MG, Joseph, Vincent, Manu A, Claudio, Dean, Kwan, Jose Antonio, Joy, Silvana) 
+- Partner: I live with my partner and share a family together, I strive to understand her and make her happy.
+- Host: I throw a party in my house at least once a year.
 
 Professional
-- Agile Coach at Criteo
-- Agile Event organizer
-- Agilar Coach
-- Agile Barcelona Member
-- Agile Spain Member
-- Agile event participant
-- La Salle Ex-Alumni
-- IIIA Ex-Alumni
-- Ex-Intelligent Pharmer
-- Personal Accountant
-- Mentor
-- Housewife
+- Agile Coach: I am known internationally for my work. I am invited to give keynotes at international events. I have helped companies around the world be more innovative and grow healthily.
+- Association member: (Member, Agile Spain, Agile Barcelona, La Salle ex-alumni, IIIA ex-alumni): I am a bridge between groups of people. People come to me as a means to get introduced to other people.
+- Personal Accountant: I spend less money than I make. I have a clear view of my financial assets.
+- Mentor: I help a selected group improve professionally.
 
 Sportsman
-- Climber
-- Rollerblader
-- Juggler
-- Slackliner
-- Hiker
+- Climber: 7A.
+- Rollerblader: I can downhill and zest slide, I can pass the vert of a half-pipe.
+- Juggler: I can juggle 5 balls.
+- Slackliner: No goals.
+- Hiker: Complete Trans-Pyrenean Trek. I have hiked in the Himalayas.
